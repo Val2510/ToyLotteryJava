@@ -1,0 +1,10 @@
+Toy{id=3, name='doll', frequency=6}
+Toy{id=3, name='doll', frequency=6}
+Toy{id=3, name='doll', frequency=6}
+Toy{id=1, name='ball', frequency=2}
+Toy{id=3, name='doll', frequency=6}
+Toy{id=2, name='lego', frequency=2}
+Toy{id=3, name='doll', frequency=6}
+Toy{id=3, name='doll', frequency=6}
+Toy{id=2, name='lego', frequency=2}
+Toy{id=1, name='ball', frequency=2}
